@@ -1,0 +1,19 @@
+---
+layout: default
+title: Home
+---
+
+## **Welcome To My Cyber Security Blog,  Hacker**
+
+Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Found Your Way Here Huh, I Post Different Hacking Tricks, Writeups, Articles, Any Stuffs Related To Hacking That I Learn, Let's Get Right Into It 💨
+
+## **WhoAmI:~#**
+
+
+- **My Name:**    `Nafiu Abdulmalik`
+- **Known as:**   `SonOfABot`
+- **What Do I Do:**  `CTF / Red Teaming / Ethical Hacking`
+- **Twitter:**    `https://twitter.com/abdulmalik_ttg`
+- **GitHub:**     `https://github.com/SonOfABot#1088`
+
+
