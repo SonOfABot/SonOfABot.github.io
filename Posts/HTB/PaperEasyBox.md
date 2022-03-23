@@ -153,7 +153,7 @@ Severity:  HIGH
 
 Proof of Concept Code Here:
 
-……snip...
+--snip--
 
 - Set the name and display name
 
@@ -169,7 +169,7 @@ accountType=1
 
 VCrZv183QpZL7sAeskcoTB' passHint="password"![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.024.png)
 
-………snip…..
+--snip--
 
 echo ""
 
