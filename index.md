@@ -17,3 +17,6 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 - **GitHub:**     `https://github.com/SonOfABot#1088`
 
 
+**HACKTHEBOX -- WRITEUPS**
+
+- **Mar 08, 2022:** [HackHackMe -- Paper](https://sonofabot.github.io/Posts/HTB/PaperEasyBox.html)
