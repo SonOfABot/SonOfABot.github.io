@@ -1,37 +1,6 @@
-﻿![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.001.png)
 
-OFFENSIVE SECURITY
+Write-up for Hack The Box Machine: Papers
 
-Penetration Test Report for Easy Hack The Box Machine: Papers![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.002.png)
-
-v.2.0
-
-falconarrow01@gmail.com
-
-DATE:08/03/2022
-
-![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.003.png)
-
-Copyright © 2021 Offensive Security Ltd. All rights reserved.
-
-No part of this publication, in whole or in part, may be reproduced, copied, transferred or any other right reserved to its copyright owner, including photocopying and all other copying, any transfer or transmission using any
-
-network or other means of communication, any broadcast for distant learning, in any form or by any means such as any information storage, transmission or retrieval system, without prior written permission from Offensive Security.
-
-Table of Contents
-
-1. Introduction 	 4
-1. Objective 	 4
-1. Requirements 	 5
-0. Report – High-Level Summary .............................................................................. 6
-1. Report - Recommendations ............................................................................... 7
-0. Report – Methodologies ........................................................................................ 7
-1. Report – Information Gathering ......................................................................... 7
-1. Report – Service Enumeration ........................................................................... 8 ………………………………………………………………………………………...................... 13
-1. Report – Penetration ........................................................................................ 14
-1. Report – Advice to help secure host better ...................................................... 22
-0. Offensive Security Lab and Exam Penetration Test Re - port
-0. Introduction
 
 HACK THE BOX MACHINE: PAPERS - 10.10.11.143
 
@@ -79,9 +48,9 @@ The  service  enumeration  portion  of  a  penetration  test  focuses  on  gathe
 
 
 
-|Server IP Address|Ports Open|
-| - | - |
-|10.10.11.143|TCP: 22,80,443|
+Server IP Address Ports Open
+
+10.10.11.143 TCP: 22,80,443
 ![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.005.jpeg)
 
 We connected to ip at port 80&443 ended up with default page so no much help
@@ -122,7 +91,7 @@ we got to know port 80 was running wordpress CMS of wordpress version 5.2.3 and 
 
 The penetration testing portions of the assessment focus heavily on gaining access to a variety of systems. During this penetration test, Abdulmalik was able to successfully gain access to 10 out of the 50 systems.
 
-Vulnerability Exploited: WordPress Core < 5.2.3 - Viewing Unauthenticated/ Password/Private Posts ![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.014.png)
+Vulnerability Exploited: WordPress Core < 5.2.3 - Viewing Unauthenticated/ Password/Private Posts
 
 CVE-2019-17671
 
@@ -176,7 +145,7 @@ Vulnerability Exploited: Polkit 0.105-26 0.117-2 - Local Privilege Escalation
 
 ![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.022.jpeg)
 
-` `System Vulnerable: o ffice.paper![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.023.png)
+` `System Vulnerable: office.paper![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.023.png)
 
 Vulnerability Explanation : CVE-2021-3560 It was found that polkit could be tricked into bypassing the credential checks for D-Bus requests, elevating the privileges of the requestor to the root user. This flaw could be used by an unprivileged local attacker to, for example, create a new local administrator. The highest threat from this  vulnerability  is  to  data  confidentiality  and  integrity  as  well  as  system availability. 
 
@@ -226,4 +195,8 @@ To patch this host I think it would be necessary to perform a number of actions 
 - Restrict access to the bot
 - Do not leave credentials in an accessible file
 - Upgrading linux constantly to avoid old CVEs
-19 |  Page![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.026.png)
+![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.026.png)
+
+<br> <br>
+[Back To Home](../index.md)
+<br>
