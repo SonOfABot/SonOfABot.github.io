@@ -139,8 +139,10 @@ now we have that let's go back to our shell tab and change paradox authourized k
 ![Screenshot_20220324_152701(2)](https://user-images.githubusercontent.com/24994796/160216007-e0214d80-1374-4124-a0db-38c6696efd65.png)
 
 - after that head back to your tab 
-- time for the port forwarding trick, the link below explains it quite well, you can head there later 
-https://gist.github.com/proudlygeek/5721498 
+- time for the port forwarding trick, the link below explains it quite well, you can head there later
+
+[SSH Port forwarding on GitHub](https://gist.github.com/proudlygeek/5721498)
+
 We run the following
 Setup ssh tunnel
 - ssh -fNv -L 3049:localhost:2049 paradox@MACHINE-IP 
