@@ -35,7 +35,7 @@ https://makandracards.com/makandra-orga/37763-gpg-extract-private-key-and-import
 https://blog.chapagain.com.np/gpg-how-to-change-edit-private-key-passphrase/
 
 
-First change direcetory to one the contains your backup extracted files 
+First change directory to one the contains your backup extracted files 
 make sure you have gpg installed on yyour machine 
 then we get into it
 In your terminal type this 
