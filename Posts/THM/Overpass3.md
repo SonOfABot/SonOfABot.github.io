@@ -10,9 +10,9 @@ Let's jump right into it
 
 Here we are working with couple of broke programmers who built a web hosting ......
 
-Upon firing up the machine we get an ip machine
+Upon firing up the machine we get an IP address
 
-First thing for every good security operative in enumeration
+First thing for every good security operative is enumeration
 so we run an nmap scan to know which ports/services are up and running
 
 ![Screenshot_20220326_003154](https://user-images.githubusercontent.com/24994796/160210613-a77cc466-9717-4ee1-bb5e-11ba76dfcfa2.png)
