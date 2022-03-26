@@ -197,7 +197,8 @@ To patch this host I think it would be necessary to perform a number of actions 
 - Upgrading linux constantly to avoid old CVEs
 ![](Aspose.Words.552d892b-4837-49da-b9d1-0677a8dc6c81.026.png)
 
+
 <br> <br>
-[Back To Home](../../index.html)
+[Back To Home](../../index.md)
 <br>
 
