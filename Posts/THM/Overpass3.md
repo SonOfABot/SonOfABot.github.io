@@ -31,9 +31,9 @@ We download it, extract it and were greeted with two files a gpg and a private p
 I guess we'll be learning a bit about pgp and gpg xD 
 # Proceed to both this links if you want to learn about how to import keys and change a pgp passphrase
 
-https://makandracards.com/makandra-orga/37763-gpg-extract-private-key-and-import-on-different-machine
+[Keys importion in PGP](https://makandracards.com/makandra-orga/37763-gpg-extract-private-key-and-import-on-different-machine)
 
-https://blog.chapagain.com.np/gpg-how-to-change-edit-private-key-passphrase/
+[How to change gpg passphrase](https://blog.chapagain.com.np/gpg-how-to-change-edit-private-key-passphrase/)
 
 
 First change directory to one the contains your backup extracted files 
@@ -164,7 +164,8 @@ cat out the user flag
 Now time for the privilege escalation path
 pay good attention to this, things get tricky here
 actually we use hacktricks trick xD
-https://book.hacktricks.xyz/linux-unix/privilege-escalation/nfs-no_root_squash-misconfiguration-pe
+
+[Hack tricks](https://book.hacktricks.xyz/linux-unix/privilege-escalation/nfs-no_root_squash-misconfiguration-pe)
 
 Head back to our /tmp/nfs folder 
 - cd /tmp/nfs
@@ -187,8 +188,7 @@ and we should get our root flag
 
 That's it for Overpass 3
 
-Hit me up on Twitter (https://twitter.com/abdulmalik_ttg) if you run into any issues 
-Greetings from [SonOfABot]
+Hit me up on [Twitter](https://twitter.com/abdulmalik_ttg) if you run into any issues
 
 
 
