@@ -32,6 +32,7 @@ I guess we'll be learning a bit about pgp and gpg xD
 # Proceed to both this links if you want to learn about how to import keys and change a pgp passphrase
 
 https://makandracards.com/makandra-orga/37763-gpg-extract-private-key-and-import-on-different-machine
+
 https://blog.chapagain.com.np/gpg-how-to-change-edit-private-key-passphrase/
 
 
