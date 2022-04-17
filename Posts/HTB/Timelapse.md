@@ -104,7 +104,7 @@ Turn off win defend or whitelist the upload path (c:\users)
 
 run netcat revshell
 
-![Screenshot_20220415_080255](https://user-images.githubusercontent.com/24994796/163694779-6339b72c-1e85-4c40-abb9-ea40de098927.png)
+![Screenshot_20220415_080255(1)](https://user-images.githubusercontent.com/24994796/163695189-2f6d5ab6-a9c5-4963-a6b7-30e9e76063ea.png)
 
 on your attacking machine you'll catch a shell
 
