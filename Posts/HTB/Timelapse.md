@@ -77,9 +77,12 @@ We repeat the commands, and we're able to successfully act as the svc_decoy user
 
 # Privilege Escalation
 
-We see now have to think of how to get root after all we have some credentials already
+So we see now have to think how to get root after all we have some credentials already
 Remeber in the smbclient folder there was a folder of Help blah blah it contained things about ldaps and we from our scans we have ldap3 open ports
 So we dump ldaps
+
+![laps python dumping script](https://github.com/n00py/LAPSDumper)
+
 ![Screenshot_20220415_075854](https://user-images.githubusercontent.com/24994796/163694505-ae5400c3-262b-43d6-ac5f-eb7af8740142.png)
 
 We have admin password
