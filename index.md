@@ -12,7 +12,7 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 
 - **My Name:**    `Nafiu Abdulmalik`
 - **Known as:**   `SonOfABot`
-- **What Do I Do:**  `CTF / Red Teaming / Ethical Hacking`
+- **What Do I Do:**  `CTF / Red Teaming / Pentesting / Ethical Hacking / Learning`
 - **Twitter:**    `https://twitter.com/abdulmalik_ttg`
 - **GitHub:**     `https://github.com/SonOfABot#1088`
 
@@ -26,3 +26,7 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 ## **TRYHACKME -- WRITEUPS**
 - **Mar 26, 2022:** [TryHackMe -- Overpass3](https://sonofabot.github.io/Posts/THM/Overpass3.html)
 - **Apr 12, 2022:** [TryHackMe -- Retro](https://sonofabot.github.io/Posts/THM/retro.html)
+
+
+## **CYSEC-NG CTFs -- WRITEUPS**
+- **May 15, 2022:** [CYSEC-NG -- Intro To My First CTF](https://sonofabot.githun.io/Posts/CTF/CTFs.html)
