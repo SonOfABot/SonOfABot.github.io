@@ -12,7 +12,7 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 
 - **My Name:**    `Nafiu Abdulmalik`
 - **Known as:**   `SonOfABot`
-- **What Do I Do:**  `CTF / Red Teaming / Pentesting / Ethical Hacking / Learning`
+- **What Do I Do:**  `CTF / Red Teaming / Pentesting / Ethical Hacking`
 - **Twitter:**    `https://twitter.com/abdulmalik_ttg`
 - **GitHub:**     `https://github.com/SonOfABot#1088`
 
