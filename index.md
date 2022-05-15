@@ -29,4 +29,4 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 
 
 ## **CYSEC-NG CTFs -- WRITEUPS**
-- **May 15, 2022:** [CYSEC-NG -- Intro To My First CTF](https://sonofabot.githun.io/Posts/CTF/CTFs.html)
+- **May 15, 2022:** [CYSEC-NG -- Intro To My First CTF](https://sonofabot.github.io/Posts/CTF/CTFs.html)
