@@ -47,8 +47,7 @@ We got bleh as the decoded string
 
 We done
 
-<br></br>
-
+<br> <br>
 [Back To Home](../../index.md)
 <br>
 
