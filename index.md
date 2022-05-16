@@ -37,10 +37,10 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 - **May 15, 2022:** [CYSEC-NG -- Web - Easy Web](https://sonofabot.github.io/Posts/CTF/easyweb.html)
 - **May 15, 2022:** [CYSEC-NG -- Crypto - Squished Silence](https://sonofabot.github.io/Posts/CTF/squished.html)
 - **May 15, 2022:** [CYSEC-NG -- Web - The Examiner ](https://sonofabot.github.io/Posts/CTF/examiner.html)
-- **May 15, 2022:** [CYSEC-NG -- Digital Forensics - Encore](https://sonofabot.github.io/Posts/CTF/encore.html)
-- **May 15, 2022:** [CYSEC-NG -- Stenography - Happy Song ](https://sonofabot.github.io/Posts/CTF/happysong.html)
-- **May 15, 2022:** [CYSEC-NG -- Rev - Paswword Verifier  ](https://sonofabot.github.io/Posts/CTF/password.html)
-- **May 15, 2022:** [CYSEC-NG -- OSINT - CD Guy 1-3 ](https://sonofabot.github.io/Posts/CTF/cdguy.html)
-- **May 15, 2022:** [CYSEC-NG -- MISC - Hacker Wordle ](https://sonofabot.github.io/Posts/CTF/wordle.html)
+- **May 16, 2022:** [CYSEC-NG -- Digital Forensics - Encore](https://sonofabot.github.io/Posts/CTF/encore.html)
+- **May 16, 2022:** [CYSEC-NG -- Stenography - Happy Song ](https://sonofabot.github.io/Posts/CTF/happysong.html)
+- **May 16, 2022:** [CYSEC-NG -- Rev - Paswword Verifier  ](https://sonofabot.github.io/Posts/CTF/password.html)
+- **May 16, 2022:** [CYSEC-NG -- OSINT - CD Guy 1-3 ](https://sonofabot.github.io/Posts/CTF/cdguy.html)
+- **May 16, 2022:** [CYSEC-NG -- MISC - Hacker Wordle ](https://sonofabot.github.io/Posts/CTF/wordle.html)
 
 
