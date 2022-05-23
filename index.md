@@ -21,6 +21,9 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 
 - **Mar 08, 2022:** [HackTheBox -- Paper](https://sonofabot.github.io/Posts/HTB/PaperEasyBox.html)
 - **Apr 17, 2022:** [HackTheBox -- Timelapse](https://sonofabot.github.io/Posts/HTB/Timelapse.html)
+- **May 23, 2022:** [HackTheBox -- Cronos ](https://sonofabot.github.io/Posts/HTB/cronos.html)
+- **May 23, 2022:** [HackTheBox -- Nineveh ](https://sonofabot.github.io/Posts/HTB/nineveh.html)
+- **May 23, 2022:** [HackTheBox -- Sense ](https://sonofabot.github.io/Posts/HTB/sense.html)
 
 
 ## **TRYHACKME -- WRITEUPS**
