@@ -81,7 +81,7 @@ Start a netcat listener in a new tab on your machine with the port in the bat fi
 ![Screenshot_20220411_220856](https://user-images.githubusercontent.com/24994796/163018998-413404c0-8037-4008-896d-9ecdacede93a.png)
 
 # AND WE ARE DONE
-LOOK OFR FILES ON YOUR OWN, it's your little task
+LOOK FOR FILES ON YOUR OWN, it's your little task
 
 Hit me up on [Twitter](https://twitter.com/abdulmalik_ttg) if you run into any issues
 
