@@ -49,5 +49,6 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 
 ## **ABCCTF --  WRITEUPS**
 - **Oct 5, 2022:** [abcctf -- Overkill and Secret Service](https://sonofabot.github.io/Posts/CTF/Ov3rkill.html)
+- **Oct 6, 2022:** [abcctf -- Hacker](https://sonofabot.github.io/Posts/CTF/Hacker.html)
 
 
