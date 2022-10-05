@@ -47,4 +47,7 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 - **May 16, 2022:** [CYSEC-NG -- OSINT - CD Guy 1-3 ](https://sonofabot.github.io/Posts/CTF/cdguy.html)
 - **May 16, 2022:** [CYSEC-NG -- MISC - Hacker Wordle ](https://sonofabot.github.io/Posts/CTF/wordle.html)
 
+## **ABCCTF --  WRITEUPS**
+- **Oct 5, 2022:** [abcctf -- Overkill and Secret Service](https://sonofabot.github.io/Posts/CTF/Ov3rkill.html)
+
 
