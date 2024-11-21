@@ -6,6 +6,7 @@ title: SOB SECURITY
 ## **Welcome To My Cyber Security Blog,  Hacker**
 
 Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Found Your Way Here Huh, I Post Different Hacking Tricks, Writeups, Articles, Any Stuffs Related To Hacking That I Learn, Let's Get Right Into It 💨
+It's been a while since I updated this, but it seems I'm back now
 
 ## **WhoAmI:~#**
 
@@ -15,7 +16,14 @@ Hey Mate, Welcome To My Cyber Security Blog My Name is SonOfABot, Guess You Foun
 - **What Do I Do:**  `CTF / Red Teaming / Pentesting / Ethical Hacking`
 - **Twitter:**    `https://twitter.com/abdulmalik_ttg`
 - **GitHub:**     `https://github.com/SonOfABot#1088`
+- **Certs:**  `OSCP` `eJPTv2` `Comptia Pentest+`
 
+## **UPDATE**
+It's been more than 2 years since i updated this, so many of my learnings went offline, man blame Obsidian, that note is so good, I'm thinking getting a proper domain? Hmm we'll see but now Let's talk about my interests below
+
+## **Interests**
+- First i love anything offensive, breaking into things is a big hobby, i am now considering other domains such as web3 and AI but just for fun.
+- Worked on IoT device for my final year project, would love to learn more about IoT devices hacking, pwn2own is such a dream
 
 ## **HACKTHEBOX -- WRITEUPS**
 
