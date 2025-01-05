@@ -9,7 +9,7 @@ title: SOB SECURITY
   <a href="./index.html">Main</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/thm/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/htb/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;
-  <a href="/posts/ctfs/index.html">CTFs</a>&#xA0;&#xA0;&#xA0;
+  <a href="/posts/ctf/index.html">CTFs</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/redteam/index.html">Red Team</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/malware/index.html">Malware Development</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/reverse/index.html">Reverse Engineering</a>&#xA0;&#xA0;&#xA0;
@@ -52,7 +52,7 @@ Let's walk this path together. Learn, adapt, and hack the world.
     <p>./my-activities</p>
     <p>&emsp;├── <a href="/posts/thm/index.html">TryHackMe</a></p>
     <p>&emsp;├── <a href="/posts/htb/index.html">HackTheBox</a></p>
-    <p>&emsp;├── <a href="/posts/ctfs/index.html">CTFs</a></p>
+    <p>&emsp;├── <a href="/posts/ctf/index.html">CTFs</a></p>
     <p>&emsp;├── <a href="/posts/redteam/index.html">Red Team</a></p>
     <p>&emsp;├── <a href="/posts/malware/index.html">Malware Development</a></p>
     <p>&emsp;├── <a href="/posts/reverse/index.html">Reverse Engineering</a></p>
