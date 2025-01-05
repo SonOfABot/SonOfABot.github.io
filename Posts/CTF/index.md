@@ -4,7 +4,7 @@ title: CTFs Writeup
 ---
 
 <h4 class="mume-header" id="main">
-  <a href="./index.html">Home</a>&#xA0;&#xA0;&#xA0;
+  <a href="https://sonofabot.github.io/">Home</a>&#xA0;&#xA0;&#xA0;
 </h4>
 
 ![ctf_logo](https://github.com/user-attachments/assets/279360a7-0a08-4388-ae83-77dc171152b6)
