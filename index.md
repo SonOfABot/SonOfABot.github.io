@@ -5,7 +5,7 @@ title: SOB SECURITY
 
 # **SOB SECURITY**
 
-<h3 class="mume-header" id="main">
+<h4 class="mume-header" id="main">
   <a href="./index.html">Main</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/thm/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/htb/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;
@@ -15,15 +15,12 @@ title: SOB SECURITY
   <a href="/posts/reverse/index.html">Reverse Engineering</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/exploitation/index.html">Exploitation</a>&#xA0;&#xA0;&#xA0;
   <a href="/posts/rants/index.html">Vulnerability Rants</a>
-</h3>
+</h4>
 
 ## **Welcome to SOB SECURITY — Where Curiosity Breeds Mastery**
-
 In a world teetering between chaos and control, we walk the fine line of digital shadows, uncovering secrets that others fear to face. Welcome, hacker. You're not here by accident. You've found your way into a space where we explore the art of breaking systems — ethically, of course. From CTFs to Red Team operations, from malware crafting to reverse engineering, this blog is my journey through the labyrinth of my mind, just kidding offensive security practices.
 
 Let's walk this path together. Learn, adapt, and hack the world.
-
-💨
 
 ---
 
@@ -32,15 +29,18 @@ Let's walk this path together. Learn, adapt, and hack the world.
     <span class="dot"></span><span class="dot"></span><span class="dot"></span>
   </div>
   <div class="terminal-body">
-    <p class="command">snoofabot@system:~$ cat whoami.txt</p>
-    <p>**My Name:** Nafiu Abdulmalik</p>
-    <p>**Known As:** SonOfABot</p>
-    <p>**What Do I Do:** CTF / Red Teaming / Pentesting / Ethical Hacking</p>
-    <p>**Twitter:** <a href="https://twitter.com/abdulmalik_ttg">@abdulmalik_ttg</a></p>
-    <p>**GitHub:** <a href="https://github.com/SonOfABot">SonOfABot#1088</a></p>
-    <p>**Certs:** OSCP, eJPTv2, Comptia Pentest+</p>
+    <p class="command">sonofabot@system:~$ cat whoami.txt</p>
+    <p>My name is Abdulmalik, also known as SonOfABot, a passionate cybersecurity professional specializing in CTF competitions, Red Teaming, Pentesting, and Ethical Hacking. With certifications such as OSCP, eJPTv2, and CompTIA Pentest+, I have a strong foundation in offensive security.</p>
+    <p>I love everything offensive—breaking into things is more than a profession; it's a hobby that keeps me constantly curious. While Red Teaming and Pentesting are my primary focus, I'm also exploring Web3 and AI domains, purely for the thrill of discovery and fun.</p>
+    <p>In my academic journey, I worked on an IoT device for my final year project, which sparked my interest in IoT device hacking. The challenge of uncovering vulnerabilities in such devices fascinates me, and I aspire to one day compete in prestigious competitions like Pwn2Own.</p>
+    <p>Currently, I'm diving deeper into Malware Development, Malware Analysis, and Advanced Red Teaming. Additionally, I'm contributing to the infosec community through regular blog posts, write-ups, and research on topics like CVE hunting, malware research, and APT analysis.</p>
+    <p>You can find me on:</p>
+    <ul>
+      <li>Twitter: <a href="https://twitter.com/abdulmalik_ttg">@abdulmalik_ttg</a></li>
+      <li>GitHub: <a href="https://github.com/SonOfABot">SonOfABot#1088</a></li>
+    </ul>
     <br>
-    <p class="command">snoofabot@system:~$ tree ./interests</p>
+    <p class="command">sonofabot@system:~$ tree ./interests</p>
     <p>./interests</p>
     <p>&emsp;├── Offensive Security</p>
     <p>&emsp;├── Red Teaming</p>
@@ -48,15 +48,18 @@ Let's walk this path together. Learn, adapt, and hack the world.
     <p>&emsp;├── Malware Development</p>
     <p>&emsp;└── Reverse Engineering</p>
     <br>
-    <p class="command">snoofabot@system:~$ tree ./my-activities</p>
+    <p class="command">sonofabot@system:~$ tree ./my-activities</p>
     <p>./my-activities</p>
     <p>&emsp;├── <a href="/posts/thm/index.html">TryHackMe</a></p>
     <p>&emsp;├── <a href="/posts/htb/index.html">HackTheBox</a></p>
     <p>&emsp;├── <a href="/posts/ctfs/index.html">CTFs</a></p>
     <p>&emsp;├── <a href="/posts/redteam/index.html">Red Team</a></p>
+    <p>&emsp;├── <a href="/posts/malware/index.html">Malware Development</a></p>
+    <p>&emsp;├── <a href="/posts/reverse/index.html">Reverse Engineering</a></p>
+    <p>&emsp;├── <a href="/posts/exploitation/index.html">Exploitation</a></p>
     <p>&emsp;└── <a href="https://github.com/SonOfABot">GitHub</a></p>
     <br>
-    <p class="command">snoofabot@system:~$</p>
+    <p class="command">sonofabot@system:~$</p>
   </div>
 </div>
 
