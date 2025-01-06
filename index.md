@@ -30,11 +30,11 @@ Let's walk this path together. Learn, adapt, and hack the world.
   </div>
   <div class="terminal-body">
     <p class="command">sonofabot@system:~$ cat whoami.txt</p>
-    <p>My name is Abdulmalik, also known as SonOfABot, a security junkie specializing in Red Teaming, Pentesting, Reverse Engineering, and Malware Development (Forever a learner). With certifications such as OSCP, eJPTv2, and CompTIA Pentest+, I have strong love for offensive security.</p>
-    <p>I love everything offensive, breaking into things is more than a profession; it's a hobby that keeps me constantly curious. While Red Teaming and Malware Development are my primary focus, I am looking to explore Vulnerebility Research and exploit development, purely for the thrill of discovery and fun you know, I see those two as verticles to my interests.</p>
+    <p>My name is Abdulmalik, also known as SonOfABot, a security junkie specializing in Red Teaming, Pentesting, Reverse Engineering, and Malware Development (Forever a learner). With certifications such as OSCP, eJPTv2, and CompTIA Pentest+, I have strong love for offensive security, I just like looking for bugs and ways to tinker with it, exploit it, and turn them into a proper vulnerability.</p>
+    <p>I love everything offensive, breaking into things is more than a profession; it's a hobby that keeps me constantly curious. While Red Teaming and Malware Development are my primary focus, I am looking to explore Vulnerability Research and Exploit Development, purely for the thrill of discovery and fun you know, I see those two as verticles to my interests.</p>
     <p>In the future I may want to look at web3 and maybe AI, just to have an understanding of them but I'll forever love offensive security practices</p>
     <p>In my academic journey, I worked on an IoT device for my final year project, which sparked my interest in IoT device hacking. The challenge of uncovering vulnerabilities in such devices fascinates me, and I aspire to one day compete in prestigious competitions like Pwn2Own.</p>
-    <p>Currently, I'm diving deeper into Malware Development, Malware Analysis, and Advanced Red Teaming. Additionally, I'm contributing to the infosec community through regular blog Posts, write-ups, and research on topics like CVE hunting, malware research, and APT analysis.</p>
+    <p>Currently, I'm diving deeper into Malware Development, Malware Analysis, and Advanced Red Teaming. Additionally, I'm contributing to the infosec community in my country through community building, this will include regular blog posts, write-ups, and research on topics like CVE hunting, malware research, and APT analysis.</p>
     <p>You can find me on:</p>
     <ul>
       <li>Twitter: <a href="https://twitter.com/abdulmalik_ttg">@abdulmalik_ttg</a></li>
