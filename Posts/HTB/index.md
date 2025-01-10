@@ -7,7 +7,7 @@ title: Hack The Box Write-ups
   <a href="https://sonofabot.github.io/">Home</a>&#xA0;&#xA0;&#xA0;
 </h4>
 
-![htb_logo](https://github.com/user-attachments/assets/htb-logo.png)
+![htb_logo](https://resources.hackthebox.com/hubfs/HTB-Logo-1.png)
 
 # Hack The Box (HTB) Write-ups
 
