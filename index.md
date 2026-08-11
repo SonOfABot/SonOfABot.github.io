@@ -10,6 +10,7 @@ title: SOB SECURITY
   <a href="/Posts/THM/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;
   <a href="/Posts/HTB/index.html">HackTheBox</a>&#xA0;&#xA0;&#xA0;
   <a href="/Posts/CTF/index.html">CTFs</a>&#xA0;&#xA0;&#xA0;
+  <a href="/Posts/Pwn-College/index.html">Pwn.college</a>&#xA0;&#xA0;&#xA0;
   <a href="/Posts/RedTeam/index.html">Red Team</a>&#xA0;&#xA0;&#xA0;
   <a href="/Posts/malware/index.html">Malware Development</a>&#xA0;&#xA0;&#xA0;
   <a href="/Posts/rev/index.html">Reverse Engineering</a>&#xA0;&#xA0;&#xA0;
@@ -21,6 +22,20 @@ title: SOB SECURITY
 In a world teetering between chaos and control, we walk the fine line of digital shadows, uncovering secrets that others fear to face. Welcome, hacker. You're not here by accident. You've found your way into a space where we explore the art of breaking systems — ethically, of course. From CTFs to Red Team operations, from malware crafting to reverse engineering, this blog is my journey through the labyrinth of my mind, just kidding offensive security practices.
 
 Let's walk this path together. Learn, adapt, and hack the world.
+
+---
+
+## **Latest Writeup**
+
+<div class="terminal">
+  <div class="terminal-header">
+    <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+  </div>
+  <div class="terminal-body">
+    <p class="command">sonofabot@system:~$ cat latest.txt</p>
+    <p>🎯 <a href="/Posts/Pwn-College/baseball.md">Henry Can't Make Tryouts So I Became Him Instead</a> — model evasion against a Gaussian Process Classifier, hill climbing vs saliency maps vs gradient descent vs greedy construction, benchmarked head to head. <em>pwn.college / Model Evasion</em></p>
+  </div>
+</div>
 
 ---
 
@@ -47,6 +62,7 @@ Let's walk this path together. Learn, adapt, and hack the world.
     <p>&emsp;├── Red Teaming</p>
     <p>&emsp;├── CTF Challenges</p>
     <p>&emsp;├── Malware Development</p>
+    <p>&emsp;├── Model Evasion / Adversarial ML</p>
     <p>&emsp;└── Reverse Engineering</p>
     <br>
     <p class="command">sonofabot@system:~$ tree ./my-activities</p>
@@ -54,6 +70,7 @@ Let's walk this path together. Learn, adapt, and hack the world.
     <p>&emsp;├── <a href="/Posts/THM/index.html">TryHackMe</a></p>
     <p>&emsp;├── <a href="/Posts/HTB/index.html">HackTheBox</a></p>
     <p>&emsp;├── <a href="/Posts/CTF/index.html">CTFs</a></p>
+    <p>&emsp;├── <a href="/Posts/Pwn-College/index.html">Pwn.college</a></p>
     <p>&emsp;├── <a href="/Posts/RedTeam/index.html">Red Team</a></p>
     <p>&emsp;├── <a href="/Posts/malware/index.html">Malware Development</a></p>
     <p>&emsp;├── <a href="/Posts/rev/index.html">Reverse Engineering</a></p>
@@ -109,4 +126,3 @@ Let's walk this path together. Learn, adapt, and hack the world.
 - **Twitter:** [@abdulmalik_ttg](https://twitter.com/abdulmalik_ttg)
 - **GitHub:** [SonOfABot#1088](https://github.com/SonOfABot)
 - **Certs:** `OSCP`, `eJPTv2`, `Comptia Pentest+`
-
