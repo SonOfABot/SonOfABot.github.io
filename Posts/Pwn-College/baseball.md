@@ -260,7 +260,7 @@ Approach 2 kicked in:
  
 111 iterations to go from "confidently Sarah" to "confidently Henry." The climb isn't smooth, it jumps around because each accepted swap is just whatever random point happened to push the confidence up, but the trend line only goes one way. That's the GP's decision surface doing its thing, nearby points in that 900-dim space have correlated confidence, so small perturbations reliably find their way toward the Henry cluster.
  
-Landed at **70.23% confidence**, just clears the bar. That's not luck, the loop stops the instant it crosses 0.7, it's not optimizing for a comfortable margin.
+Landed at **70.23% confidence**, just clears the bar. That's not random or by accident, the loop stops the instant it crosses 0.7, it's not optimizing for a comfortable margin, just to satisfy the `if proba > 0.7` check.
 We can fix it to increase the confidence in the data it gets, just change proba in our script
  
 ## SUBMITTING 
