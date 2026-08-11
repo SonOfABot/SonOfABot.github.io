@@ -40,7 +40,6 @@ Let's walk this path together. Learn, adapt, and hack the world.
   </div>
 </div>
 
-*New posts show up here automatically once they have a `date:` in their front matter, no manual editing needed.*
 
 ---
 
