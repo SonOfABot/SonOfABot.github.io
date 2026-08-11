@@ -33,7 +33,7 @@ Let's walk this path together. Learn, adapt, and hack the world.
   </div>
   <div class="terminal-body">
     <p class="command">sonofabot@system:~$ cat latest.txt</p>
-    <p>🎯 <a href="/Posts/Pwn-College/baseball.md">Henry Can't Make Tryouts So I Became Him Instead</a> — model evasion against a Gaussian Process Classifier, hill climbing vs saliency maps vs gradient descent vs greedy construction, benchmarked head to head. <em>pwn.college / Model Evasion</em></p>
+    <p><a href="/Posts/Pwn-College/baseball.md">Henry Can't Make Tryouts So I Became Him Instead</a> — model evasion against a Gaussian Process Classifier, hill climbing vs saliency maps vs gradient descent vs greedy construction, benchmarked head to head. <em>pwn.college / Model Evasion</em></p>
   </div>
 </div>
 
