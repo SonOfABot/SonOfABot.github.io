@@ -1,8 +1,8 @@
 ---
 layout: default
 title: BASEBALL - pwn.college (Model Evasion)
+date: 2026-08-11
 ---
- 
 # Henry Can't Make Tryouts So I Became Him Instead 
  
 I Advice You Give It a Go First Before Following The Steps Here, This One's Less About Exploitation And More About Poking An ML Model Until It Lies For You
