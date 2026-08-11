@@ -332,14 +332,13 @@ Greedy Construction      354.35           15       0.8623 Congrats
  
 A few things stood out:
  
-- **Gradient descent finished in one step and 0.74s**, because the saliency warm-start already landed it inside the Henry basin, there was nothing left to optimize. That's the whole point of a good warm-start.
+- **Gradient descent finished in one step and 0.74s**, because the saliency warm start already landed it inside the Henry basin, there was nothing left to optimize. That's the whole point of a good warm-start.
 - **Saliency alone matched gradient descent's score (0.8196)** despite being completely blind to how pixels interact with each other. It just happens that Henry's actual training pitches cluster tightly enough that the best individual pixels reconstruct a recognizable pattern when combined.
 - **Greedy construction won on accuracy (0.8623) but paid for it, nearly 6 minutes** against hill climbing's 6 seconds, because it's making an exhaustive comparison at every single slot instead of taking shortcuts.
 - **Hill climbing is still the "get the flag fast" answer.** It's messy, random, and stops as soon as it's good enough, but it's the cheapest way to a valid answer if all you need is the win condition.
-None of this changes the flag, the CTF only cares that you cross 0.7. But it's a good demo of the actual tradeoff space in adversarial ML evasion: fast-and-greedy vs. slow-and-optimal, and how a decent warm-start can make an "expensive" method basically free.
+None of this changes the flag as the only check that mattered to this challenge was that you cross 0.7. But it's a good demo of the actual tradeoff space in adversarial ML evasion: fast-and-greedy vs. slow-and-optimal, and how a decent warm start can make an "expensive" method basically free.
 
 ## AND WE ARE DONE 
  
-Real-world flavor of this: if you can ever get your hands on an actual model artifact used for detection (AV/EDR ML classifiers, fraud models, whatever), you can do exactly this offline before you ever touch the live target. Same idea, higher stakes.
+Real world flavor of this: if you can ever get your hands on an actual model artifact used for detection (AV/EDR ML classifiers, fraud models, whatever), you can do exactly this offline before you ever touch the live target. Same idea, higher stakes.
  
-LOOK AT THE KERNEL MATH ON YOUR OWN, it's your little task 😌
